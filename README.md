@@ -3,22 +3,20 @@
 *My History with Youtube*
 
 In this project i wanted to a have a better comprehension of my internet usage over the time. Analysis of our data can provide us a collective idea about the person we are,
-what we like, our interests, life goals and even our private information. With the internet data we can interpret the cause and effect relationships, correlations of events 
-and finally have a reliable conclusion. Thus, i wanted to use my Youtube data and see how my interests, my frequency of usage or my purpose of watching videos have changed. 
+what we like, our interests, life goals and even our private information. With the internet data we can interpret the cause and effect relationships, correlations of events (such as the relation between my age and my most watched categories or my midterm and final dates and the watch time of the videos) and finally have a reliable conclusion. Thus, i wanted to use my Youtube data and see how my interests, my frequency of usage or my purpose of watching videos have changed. 
 
 The dataset I'm going to use are the Google takeout and the Youtube API.
-Google takeout of my Youtube data for my all watch and search history thus i can dive more deeply into my Youtube usage behaviour according to my age, interests at the times,
-purpose of my Youtube usage and the average watch time in this long time capsule. It will be a good way to analyze my internet usage since Youtube is my most used application. 
+Google takeout of my Youtube data for my all watch and search history thus i can dive more deeply into my Youtube usage behaviour according to my age, interests at the times, purpose of my Youtube usage and the average watch time in this long time capsule. It will be a good way to analyze my internet usage since Youtube is my most used application. 
 Secondly the Youtube API for a better data fetching, more enhanced analysis of categories and the views of my watch history thus i can have a better view of my data and a better 
 understanding of my data patterns. 
+Moreover i plan to include my exam dates(midterms, finals, YKS dates) to analyze how my youtube behaviour changes at the times.
 
 //PROJECT IDEA: 
 
-The goal of the project is to fetch the data in the areas that i want to analyze. 
+The goal of the project is to fetch the data in the areas and to analyze the topics below. 
 1. Interest Over Time: The categories the watch history and search history dataset will determine set of interests that i have in the mean time.
 2. Purpose of Usage: A more generalized version of the interests will give the conclusion of Youtube usage.
-3. Frequency of Usage: The data of watch time will be analyzed in the daily, monthly and yearly basis. The results will be visualized in ... graphs. //Burda bunların yorumlanması
-kısmını yazıcak mıyım yorumlayayım mı?
+3. Frequency of Usage: The data of watch time will be analyzed in the daily, monthly and yearly basis. 
 
 //PROJECT PLAN:
 
