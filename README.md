@@ -24,9 +24,9 @@ The goal of the project is to fetch the data in the areas and to analyze the top
 
 1. First i'm going to collect Youtube API and Google takeout data.
 2. Then i will parse the important data (e.g. video categories, titles, watch times).
-3. I will make visulization of data that i collected.
-4. After the visulization, i'm going to analyze correlations and give most likely explanations for the behaviours of my data.
-5. Finally conclude the project with the most interested topics that i'm in, the most frequent times of my watch history and the ultimate goal of my Youtube usage. 
+3. I will make the visulization of data that i collected.
+4. After the visulization, i'm going to analyze the plots and find correlations and give most likely explanations for the behaviours of my data.
+5. Finally i will conclude the project with the most interested topics that i'm in, the most frequent times of my watch history and the ultimate goal of my Youtube usage. 
 
 *CONCLUSION:*
 
