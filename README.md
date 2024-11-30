@@ -11,7 +11,7 @@ Google Takeout Data: This includes my complete YouTube watch and search history,
 
 YouTube API: This will provide additional insights, such as enhanced categorization, video details, and view counts from my watch history, allowing for a more comprehensive understanding of the data and its patterns.
 
-Moreover i plan to include my exam dates(midterms, finals, assignment and YKS dates) to analyze how my youtube behaviour changes at the times.
+Moreover i plan to include my exam dates (midterms, finals, assignment and YKS dates) to analyze how my youtube behaviour changes at the times.
 
 *PROJECT IDEA:* 
 
@@ -28,6 +28,6 @@ The goal of the project is to fetch the data in the areas and to analyze the top
 4. After the visulization, i'm going to analyze correlations and give most likely explanations for the behaviours of my data.
 5. Finally conclude the project with the most interested topics that i'm in, the most frequent times of my watch history and the ultimate goal of my Youtube usage. 
 
-*CONCLUSION*
+*CONCLUSION:*
 
 This project, My History with YouTube, explores how my digital behavior reflects my evolving interests, habits, and goals. Using data from Google Takeout, the YouTube API, and contextual factors like academic timelines, I aim to uncover patterns in my usage, including changes in interests, viewing frequency, and purpose. Through analysis and visualization, this project offers a reflective journey into how my YouTube activity mirrors and influences my personal growth and priorities.
