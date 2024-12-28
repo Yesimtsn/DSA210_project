@@ -1,5 +1,5 @@
 #Requested watch-history and search-history from Google Takeout
-#Parsing each video id of the watch and search history into a new array
+#Parse each video id of the watch and search history into a new array
 #For watch-history video ids:
 import json
 with open('watch-history.json', 'r', encoding='utf-8') as file:
