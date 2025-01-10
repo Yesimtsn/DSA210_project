@@ -1,6 +1,6 @@
 # My History with Youtube
 ## DSA 210 2024-2045 Fall Term Project
-You can review project presentation by clicking [here](https://sabanciuniv-my.sharepoint.com/:p:/g/personal/yesim_tosun_sabanciuniv_edu/EY-4FDFpSzhNjPuiHCiYcS0B3_076Rs97N2J0sqR_oiqFw?e=THsrqX)
+You can review my project presentation slides by clicking [here](https://sabanciuniv-my.sharepoint.com/:p:/g/personal/yesim_tosun_sabanciuniv_edu/EY-4FDFpSzhNjPuiHCiYcS0B3_076Rs97N2J0sqR_oiqFw?e=THsrqX)
 ### Motivation 
 In this project i wanted to a have a better comprehension of my internet usage over the time. Analysis of our data can provide us a collective idea about the person we are,
 what we like, our interests, life goals and even our private information. With the internet data we can interpret the cause and effect relationships, correlations of events (such as the relation between years and my most watched categories) and finally have a reliable conclusion. Thus, i wanted to use my Youtube data and see how my interests, my frequency of usage or my purpose of watching videos have changed. 
