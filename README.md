@@ -17,4 +17,4 @@ The goal was to fetch the data in the areas and to analyze the topics below.
 3. Frequency of Usage: The watch time data will be analyzed on a daily, monthly, and yearly basis to understand usage patterns and identify trends over different time periods.
 
 
-This project, My History with YouTube, explores how my digital behavior reflects my evolving interests, habits, and goals. Using data from Google Takeout, the YouTube API, and contextual factors like academic timelines, I aim to uncover patterns in my usage, including changes in interests, viewing frequency, and purpose. Through analysis and visualization, this project offers a reflective journey into how my YouTube activity mirrors and influences my personal growth and priorities.
+This project, My History with YouTube, explores how my digital behavior reflects my evolving interests, habits, and goals. I tried to visualize my data well and analyze them accordingly. 
