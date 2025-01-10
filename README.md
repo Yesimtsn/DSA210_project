@@ -63,12 +63,12 @@ I then applied hypothesis testing to these models using techniques such as linea
 
 ### Limitations
 
-1. YouTube's inability to categorize videos with the right accuracy.​
+**1. YouTube's inability to categorize videos with the right accuracy.​**
  
 -Upon examining my raw data and the metadata of the videos, I noticed that the categorization was not entirely accurate. For instance, a concert video of a rock band might be categorized under "Entertainment" rather than "Music." Similarly, a guitar cover of a song is often categorized under "People & Blogs" or "How-to & Style" instead of "Music". ​
 However the data is huge thus only thing I could do was to accept the results of the Youtube API data.​
 
-2. The video durations retrieved through the YouTube API reflect the total length of the original videos, not the actual time spent watching them.​
+**2. The video durations retrieved through the YouTube API reflect the total length of the original videos, not the actual time spent watching them.​**
  
 -The issue arising from this limitation is that even if a user watches only 1 minute of an hour-long video, the data records the entire hour. Thus, I assumed for this project that I watched a significant proportion of each video I have watched.
 
@@ -77,8 +77,8 @@ However the data is huge thus only thing I could do was to accept the results of
 Data can reveal an infinite amount of information about an individual. The possibilities for further analysis and hypothesis testing on this YouTube data are limitless. ​
 At this point, it is difficult to stop discovering, as numerous scenarios and hypotheses come to mind for testing the data. In conclusion this project can evolve into different aspects of youtube usage and show many more interesting results in the future.​
 
-**In this project, I used "All Time," "Yearly," and "Monthly" representations of my data due to its large size, spanning 7 years, which I wanted to explore comprehensively.​
+**In this project, I used "All Time," "Yearly," and "Monthly" representations of my data due to its large size, spanning 7 years, which I wanted to explore comprehensively.​**_
 
-**In the future, I could expand the analysis to include more granular forms, such as daily or hourly watch times.​
+**In the future, I could expand the analysis to include more granular forms, such as daily or hourly watch times.​**
 
-**With more detailed data, I would be able to conduct deeper analysis and draw more specific conclusions about my viewing behavior over time.​
+**With more detailed data, I would be able to conduct deeper analysis and draw more specific conclusions about my viewing behavior over time.​**
