@@ -64,12 +64,12 @@ I then applied hypothesis testing to these models using techniques such as linea
 ### Limitations
 
 1. YouTube's inability to categorize videos with the right accuracy.​
-2. 
+ 
 -Upon examining my raw data and the metadata of the videos, I noticed that the categorization was not entirely accurate. For instance, a concert video of a rock band might be categorized under "Entertainment" rather than "Music." Similarly, a guitar cover of a song is often categorized under "People & Blogs" or "How-to & Style" instead of "Music". ​
 However the data is huge thus only thing I could do was to accept the results of the Youtube API data.​
 
-3. The video durations retrieved through the YouTube API reflect the total length of the original videos, not the actual time spent watching them.​
-4. 
+2. The video durations retrieved through the YouTube API reflect the total length of the original videos, not the actual time spent watching them.​
+ 
 -The issue arising from this limitation is that even if a user watches only 1 minute of an hour-long video, the data records the entire hour. Thus, I assumed for this project that I watched a significant proportion of each video I have watched.
 
 ### Future Work
